@@ -9,4 +9,4 @@ I'm Eric, I'm a student & software engineer, I'm still learning :)
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, NodeJS, C# & more.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyfeelings&show_icons=true&theme=dark)
