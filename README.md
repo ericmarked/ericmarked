@@ -3,8 +3,8 @@
 ## Hi 👋, 
 I'm Eric, I'm a student & software engineer, I'm still learning :)
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on APIs :)
+- 🌱 I’m currently coding in NodeJS
 - 💬 Ask me about: tech, coding
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, NodeJS, C# & more.
