@@ -1,5 +1,5 @@
 # ShadyFeelings
-
+![](https://komarev.com/ghpvc/?username=shadyfeelings?color=grey)
 ## Hi 👋, 
 I'm Eric, I'm a student & software engineer, I'm still learning :)
 
