@@ -1,11 +1,12 @@
 # ShadyFeelings
 
 ## Hi 👋, 
-I'm Eric, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
+I'm Eric, I'm a student & software engineer, I'm still learning :)
 
 - 🔭 I’m currently working on Android Apps
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: tech, coding
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, NodeJS, C# & more.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
