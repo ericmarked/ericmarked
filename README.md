@@ -1,4 +1,4 @@
-# ShadyFeelings
+# EricMarked
 ![FOLLOWERCOUNT](https://komarev.com/ghpvc/?username=shadyfeelings&color=grey&label=Profile+Views)
 ## Hi 👋, 
 I'm Eric, I'm a student & software engineer, I'm still learning :)
